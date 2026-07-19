@@ -84,7 +84,7 @@ If you use this code or build on our benchmark, please cite:
   title   = {Do Deep Chest X-Ray Classifiers Explain Where They Look? A Multi-Architecture Faithfulness Benchmark with False-Positive Attribution Audit on {VinDr-CXR}},
   author  = {Zain, S. M. and Mahamud, Eram and Assaduzzaman, Md and Fahad, Nafiz and Liew, Tze Hui},
   journal = {Intelligence-Based Medicine},
-  volume  = {100431},
+  number  = {100431},
   year    = {2026},
   publisher = {Elsevier},
   doi     = {10.1016/j.ibmed.2026.100431},
