@@ -4,6 +4,7 @@ Official code for the paper published in **Intelligence-Based Medicine** (Elsevi
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ibmed.2026.100431-blue)](https://doi.org/10.1016/j.ibmed.2026.100431)
 [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-red)](https://www.sciencedirect.com/science/article/pii/S266652122600089X)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/smzainbd/CXR_Faithfulness)
 
 **Authors:** S.M. Zain, Eram Mahamud, Md Assaduzzaman, Nafiz Fahad, Tze Hui Liew
 
