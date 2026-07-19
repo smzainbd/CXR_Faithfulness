@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Do Deep Chest X-Ray Classifiers Explain Where They Look? A Multi-Architecture Faithfulness Benchmark with False-Positive Attribution Audit on VinDr-CXR"
+message: "If you use this software, please cite our paper."
+type: software
+authors:
+  - family-names: Zain
+    given-names: S. M.
+    orcid: https://orcid.org/0009-0009-3634-2719
+  - family-names: Mahamud
+    given-names: Eram
+    orcid: https://orcid.org/0009-0006-9177-6868
+  - family-names: Assaduzzaman
+    given-names: Md
+  - family-names: Fahad
+    given-names: Nafiz
+  - family-names: Liew
+    given-names: Tze Hui
+    orcid: https://orcid.org/0000-0001-5069-8441
+repository-code: "https://github.com/YOUR_USERNAME/cxr-faithfulness"
+license: MIT
+keywords:
+  - chest-x-ray
+  - explainable-ai
+  - integrated-gradients
+  - faithfulness
+  - vindr-cxr
+  - vision-transformer
+preferred-citation:
+  type: article
+  title: "Do Deep Chest X-Ray Classifiers Explain Where They Look? A Multi-Architecture Faithfulness Benchmark with False-Positive Attribution Audit on VinDr-CXR"
+  authors:
+    - family-names: Zain
+      given-names: S. M.
+    - family-names: Mahamud
+      given-names: Eram
+    - family-names: Assaduzzaman
+      given-names: Md
+    - family-names: Fahad
+      given-names: Nafiz
+    - family-names: Liew
+      given-names: Tze Hui
+  journal: Intelligence-Based Medicine
+  year: 2026
+  doi: 10.1016/j.ibmed.2026.100431
+  url: https://doi.org/10.1016/j.ibmed.2026.100431

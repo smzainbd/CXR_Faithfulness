@@ -1,0 +1,28 @@
+# Secrets
+config/kaggle.json
+*.env
+.env
+
+# Large data & artifacts
+data/raw/
+data/processed/images/
+data/processed/consensus/
+models/checkpoints/
+ig_maps/
+lime_maps/
+results/
+output/
+figures/
+
+# Python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# IDE / internal tooling
+.cursor/
+.agents/
+graphify-out/
+scratch/
