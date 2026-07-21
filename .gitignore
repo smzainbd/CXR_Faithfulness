@@ -21,11 +21,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# IDE / internal tooling
-.cursor/
-.agents/
-graphify-out/
-scratch/
 
 # Accidental nested GitHub Desktop clones
 CXR/
